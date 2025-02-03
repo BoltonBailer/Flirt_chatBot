@@ -3,8 +3,8 @@
 ## Step 1: Select media type.
 Having a background in graphic design and pride myself with using AI to enhance a photo and make them so it doesn't seem Ai, I want to see if the python program is able to detect my edits
 
-## Step 2
-random stuff
+## Step 2: Collecting Examples.
+I've chooseing photos that I have taken of myself and then enhanced them with Ai, knowing what I know about AI generation, there are key things I look for when I edit a photo, like the hands not looking correct or if patterns are in the photo, I make sure to match them as close to possible to the original.
 
 ## Step 3
 random stuff
