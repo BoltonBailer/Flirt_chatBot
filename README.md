@@ -1,4 +1,4 @@
-# Markdown Demo
+# Checking weather or not an image is AI Generated, or if it has been enchanced by AI.
 
 ## Headers
 # Header 1
