@@ -1,16 +1,17 @@
 # Checking weather or not an image is AI Generated, or if it has been enchanced by AI.
 
-## Step1
+## Step 1: Select media type.
+Having a background in graphic design and pride myself with using AI to enhance a photo and make them so it doesn't seem Ai, I want to see if the python program is able to detect my edits
+
+## Step 2
 random stuff
 
-## Step2
+## Step 3
 random stuff
----
-## Step3
+
+## Step 4
 random stuff
----
-## Step4
-random stuff
+
 ---
 
 ## Text Formatting
