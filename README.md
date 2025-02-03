@@ -1,6 +1,7 @@
 # Checking weather or not an image is AI Generated, or if it has been enchanced by AI.
 
-## Headers
+## Step1
+random stuff
 # Header 1
 ## Header 2
 ### Header 3
