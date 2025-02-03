@@ -3,14 +3,14 @@
 ## Step1
 random stuff
 ---
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
+## Step2
+random stuff
+---
+## Step3
+random stuff
+---
+## Step4
+random stuff
 ---
 
 ## Text Formatting
