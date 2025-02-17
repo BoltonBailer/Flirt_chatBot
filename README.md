@@ -1,4 +1,4 @@
-# Checking weather or not an image is AI Generated, or if it has been enchanced by AI.
+# A chatbot turn by turn system that flirts with person.
 
 ## Step 1: System Overview
 ✅ Detect keywords in user input.
