@@ -32,11 +32,9 @@ If the user types something the bot doesn’t recognize, reply with:
 "Ooh, that’s interesting! Tell me more 😏"
 "I like where this is going… but you gotta be smoother than that 😉"
 
-## Step 3
-random stuff
+## Step 3: Reflection 
+Chat bot isn't overly complicated and can see how early " flirtBots" were easy to implement and how people could monitize this. Though im sure instead of making each reply set to a key word, one could adda library with these types of responces and not have it set it stone. Ai generation would help out a lot and help this not feel so robotic.
 
-## Step 4
-random stuff
 
 ---
 
