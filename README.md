@@ -1,10 +1,36 @@
 # Checking weather or not an image is AI Generated, or if it has been enchanced by AI.
 
-## Step 1: Select media type.
-Having a background in graphic design and pride myself with using AI to enhance a photo and make them so it doesn't seem Ai, I want to see if the python program is able to detect my edits
+## Step 1: System Overview
+✅ Detect keywords in user input.
+✅ Respond with predefined flirty messages.
+✅ Keep the conversation flowing with follow-up questions.
+✅ Handle unexpected inputs gracefully.
 
-## Step 2: Collecting Examples.
-I've chooseing photos that I have taken of myself and then enhanced them with Ai, knowing what I know about AI generation, there are key things I look for when I edit a photo, like the hands not looking correct or if patterns are in the photo, I make sure to match them as close to possible to the original.
+## Step 2: Basic Rules & Logic
+A. Detect Flirty Intent
+Your bot should look for keywords in the user’s message. Examples:
+
+Keywords: "cute", "handsome", "beautiful", "date", "single", "kiss", "love", "miss", "adorable", "hot", "sweetheart"
+If a keyword is detected → Reply with a flirty response
+B. Respond With Flirty Messages
+You need a list of flirty responses, for example:
+
+User: "You look cute"
+Bot: "Aww, stop it! You’re making me blush 😘"
+User: "Are you single?"
+Bot: "For you? Always. 😉"
+User: "I love you"
+Bot: "Wow, I didn’t know we were moving this fast 😳❤️"
+C. Keep the Conversation Going
+After every response, ask a question to keep things flowing.
+
+User: "You are adorable"
+Bot: "Aww, thanks! Are you always this charming? 😏"
+D. Handle Unexpected Inputs
+If the user types something the bot doesn’t recognize, reply with:
+
+"Ooh, that’s interesting! Tell me more 😏"
+"I like where this is going… but you gotta be smoother than that 😉"
 
 ## Step 3
 random stuff
